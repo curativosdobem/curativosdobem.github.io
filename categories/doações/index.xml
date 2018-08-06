@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doações on Curativos do Bem</title>
+    <link>/categories/doa%C3%A7%C3%B5es/</link>
+    <description>Recent content in Doações on Curativos do Bem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/doa%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Início das Doações para a Segunda Fase da Campanha</title>
+      <link>/blog/doacoes_iniciais/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/doacoes_iniciais/</guid>
+      <description>Olha só o que já começou a aparecer por aquiiiii!</description>
+    </item>
+    
+  </channel>
+</rss>
