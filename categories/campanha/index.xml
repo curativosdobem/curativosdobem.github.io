@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campanha on Curativos do Bem</title>
+    <link>/categories/campanha/</link>
+    <description>Recent content in Campanha on Curativos do Bem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/campanha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Campanha 2018</title>
+      <link>/blog/segunda_fase/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/segunda_fase/</guid>
+      <description>Agora sim, foi dada a largada!
+Anunciamos formalmente o início da nossa linda campanha para coletar curativos coloridos para as nossas crianças!
+Ao pessoal que já colaborou e já se uniu à causa, nosso MUITO OBRIGADO!
+Estamos muito felizes por termos tocado o coração de vocês antes mesmo do início da campanha!
+Agora contamos com vocês para divulgar esse post entre os amigos e em suas páginas pra dar mais gás ainda!</description>
+    </item>
+    
+  </channel>
+</rss>
